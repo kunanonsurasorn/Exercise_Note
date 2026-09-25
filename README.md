@@ -1,6 +1,6 @@
 # Exercise_Note
 My project to serve my life in health and programming
-
+![Exercisenote1](https://github.com/kunanonsurasorn/Exercise_Note/blob/main/Exercisenote1.jpg)
 I call it "Exercise Note" because I record my exercise activity after I exercised in the text file with the program. I has problem about Where should I record my exercise activity. I think I record in the text file because It can replace into many places. 
 
 In the first development, It was created with simple script including List and File Management. The file was run in Visual Studio Code and recorded my exercise activity in text file. I have used the program to record my exercise activity.
